@@ -6,7 +6,7 @@
  👯 I’m looking to collaborate on Web Design(Front-end)
  
 
- 💬 Ask me about Advanced topics in CSS(Flex-box, Grid and cool designs)
+ 💬 Ask me about Advanced topics in CSS(Flex-box, Grid and Animations)
  
  
  📫 How to reach me: Connect with me on LinkedIn (https://linkedin.com/in/naveen-basireddy )
