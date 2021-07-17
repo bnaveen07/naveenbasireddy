@@ -9,5 +9,5 @@
  💬 Ask me about Advanced topics in CSS(Flex-box, Grid and cool designs)
  
  
- 📫 How to reach me: Connect with me on LinkedIn (https://linkedin.com/in/naveenbasireddy )
+ 📫 How to reach me: Connect with me on LinkedIn (https://linkedin.com/in/naveen-basireddy )
 
