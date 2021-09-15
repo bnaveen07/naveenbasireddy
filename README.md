@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenbasireddy&label=Profile%20views&color=0e75b6&style=flat" alt="naveenbasireddy" /> </p>
-
-<p align="left"> <a href="https://twitter.com/inaveen07" target="blank"><img src="https://img.shields.io/twitter/follow/inaveen07?logo=twitter&style=for-the-badge" alt="inaveen07" /></a> </p>
-
 - 🌱 I’m currently learning **Java Script, Java**
 
 - 👯 I’m looking to collaborate on **Web Development**
